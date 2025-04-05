@@ -34,7 +34,7 @@ When the option "Simulate a case scenario"  is selected, you will be both the co
 
 # Streamlit UI
 st.set_page_config(page_title="Agent AIPC - Counsellor AI", layout="wide")
-st.title("<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpRh1Qn0Xl6MbiU25mb_Q02uaph1045xHmYA&s"> Agent AIPC - Counselling Practice Tool")
+st.title("<img src="images/aipc.jpg" alt="aipc logo"> Agent AIPC - Counselling Practice Tool")
 
 st.markdown("Type below to interact with Agent AIPC as a counsellor or client.")
 
